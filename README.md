@@ -1,1 +1,1 @@
-# 3rd_Project_For_Patika
+# 3rd Project in HTML for [PATIKA.DEV](https://kodluyoruz.org/tr/kodluyoruz/)
